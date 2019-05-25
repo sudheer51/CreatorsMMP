@@ -17,6 +17,7 @@ public class US_016_ScheduleAppointment{ //extends BaseClass {
 	//		login(url,u1,p1);
 	//	}
 
+	//Click on Login Button
 	@Test
 	public void clickLogin()
 	{
